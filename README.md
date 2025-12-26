@@ -95,8 +95,7 @@ Management Team Lead (Feb 2025 – Present)
 
 ## 📫 Contact
 
-📧 tukaramchate397@gmail.com  
-📞 +91-9322942240  
+📧 tukaramchate397@gmail.com    
 
 ---
 
