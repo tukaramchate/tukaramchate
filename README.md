@@ -51,22 +51,6 @@ I enjoy solving problems, writing clean and maintainable code, and building appl
 
 ---
 
-## 🚀 Projects
-
-### Bank Management System
-**Java, OOP, MySQL**
-- Account creation, deposits, withdrawals, fund transfers
-- Modular OOP design
-- Console-based application
-
-### Quiz App
-**Java, Spring Boot, React.js, MySQL**
-- Full-stack quiz platform
-- Role-based access control
-- REST APIs & responsive UI
-
----
-
 ## 🎓 Education
 
 **B.Tech in Computer Engineering**  
@@ -81,15 +65,6 @@ GH Raisoni College of Engineering and Management, Pune
 - Enterprise-Grade AI — IBM  
 - ⭐⭐⭐⭐⭐ SQL — HackerRank  
 - 250+ LeetCode problems solved  
-
----
-
-## 🤝 Volunteer Experience
-
-**IEEE Student Branch – GHRCEM**  
-Management Team Lead (Feb 2025 – Present)
-- Organized 5+ technical & cultural events
-- Volunteer of the Month (3 times)
 
 ---
 
