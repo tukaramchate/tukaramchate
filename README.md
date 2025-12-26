@@ -1,16 +1,103 @@
-## Hi there 👋
+# 👋 Hi, I'm Tukaram Chate
 
-<!--
-**tukaramchate/tukaramchate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year Computer Engineering Student  
+💻 Java Backend & Full-Stack Developer  
+🚀 Passionate about building scalable, real-world applications
 
-Here are some ideas to get you started:
+🌐 **Portfolio:** https://tukaramchate.vercel.app  
+💼 **LinkedIn:** https://www.linkedin.com/in/tukaram-chate  
+🐙 **GitHub:** https://github.com/tukaramchate  
+🧠 **LeetCode:** https://leetcode.com/u/tukaramchate397  
+🏆 **HackerRank:** https://www.hackerrank.com/profile/tukaramchate397  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+I’m a final-year Computer Engineering student with strong skills in **Java, Spring Boot, SQL, and Full-Stack Development**.  
+I enjoy solving problems, writing clean and maintainable code, and building applications that follow solid software engineering principles.
+
+- 💡 Strong in Java, OOP, DSA  
+- ⚙️ Backend development with Spring Boot & REST APIs  
+- 🗄️ Databases: MySQL, MongoDB  
+- 🌐 Frontend: React.js, HTML, CSS, JavaScript  
+- 📚 Solved 250+ LeetCode problems  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Java, Python, SQL  
+**Backend:** Spring Boot, Spring Security, Hibernate, REST APIs  
+**Frontend:** React.js, HTML5, CSS3, JavaScript  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, Maven, Postman, JDBC, IntelliJ IDEA  
+
+---
+
+## 💼 Experience
+
+### Java Developer Intern — Infosys Springboard (Remote)
+**Nov 2025 – Present**
+- Working on Automated Test Execution Framework
+- Java, OOP concepts, automation workflows
+- SDLC, automation & quality engineering exposure
+
+### Software Engineer Intern — Cub To King IT Solutions Pvt. Ltd., Pune
+**July 2025 – Dec 2025**
+- Full-stack development using React.js, Spring Boot, MySQL
+- Built Quiz App & Invoice Generator
+- REST APIs, debugging, API testing, team collaboration
+
+---
+
+## 🚀 Projects
+
+### Bank Management System
+**Java, OOP, MySQL**
+- Account creation, deposits, withdrawals, fund transfers
+- Modular OOP design
+- Console-based application
+
+### Quiz App
+**Java, Spring Boot, React.js, MySQL**
+- Full-stack quiz platform
+- Role-based access control
+- REST APIs & responsive UI
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Engineering**  
+GH Raisoni College of Engineering and Management, Pune  
+**CGPA:** 7.7 (2022–2026)
+
+---
+
+## 🏆 Achievements
+
+- Java Foundation — Infosys Springboard  
+- Enterprise-Grade AI — IBM  
+- ⭐⭐⭐⭐⭐ SQL — HackerRank  
+- 250+ LeetCode problems solved  
+
+---
+
+## 🤝 Volunteer Experience
+
+**IEEE Student Branch – GHRCEM**  
+Management Team Lead (Feb 2025 – Present)
+- Organized 5+ technical & cultural events
+- Volunteer of the Month (3 times)
+
+---
+
+## 📫 Contact
+
+📧 tukaramchate397@gmail.com  
+📞 +91-9322942240  
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
