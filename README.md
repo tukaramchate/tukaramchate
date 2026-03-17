@@ -55,7 +55,7 @@ I enjoy solving problems, writing clean and maintainable code, and building appl
 
 **B.Tech in Computer Engineering**  
 GH Raisoni College of Engineering and Management, Pune  
-**CGPA:** 7.7 (2022–2026)
+**CGPA:** 7.84 (2022–2026)
 
 ---
 
