@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tukaram Chate</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tukaramchate&label=Profile%20views&color=0e75b6&style=flat" alt="tukaramchate" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tukaramchate" alt="tukaramchate" /></a> </p>
-
 - 🔭 I’m currently working on [document-validator](https://github.com/tukaramchate/Document-Validator)
 
 - 🌱 I’m currently learning **azure, react.js, spring ai**
