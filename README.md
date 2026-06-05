@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tukaramchate" alt="tukaramchate" /></a> </p>
 
-- 🔭 I’m currently working on [document-validator](https://github.com/tukaramchate/Document-Validator)
+- 🔭 I’m currently working on [CampusConnect](https://github.com/tukaramchate/CampusConnect)
 
 - 🌱 I’m currently learning **azure, react.js, spring ai**
 
