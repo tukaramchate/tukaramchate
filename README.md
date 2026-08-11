@@ -12,14 +12,12 @@ I'm a Computer Engineer from Pune. Passionate about scalable backend systems and
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
-- **Languages:** Java, Python, JavaScript, C++, Bash
-- **Backend:** Spring Boot, Node.js
-- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-- **Cloud & DevOps:** Azure, Git, Docker, Linux
-- **Tools:** Selenium, Postman
+* **Languages:** Java, Python, SQL
+* **Development:** HTML, CSS, JavaScript, React.js, Spring Boot, Hibernate, Azure
+* **Databases & Tools:** PostgreSQL, MySQL, Git, GitHub, Postman
+* **CS Fundamentals::** OOP, DSA, Computer Networks, SDLC, Software Testing, Cloud Computing
 
 ---
 
