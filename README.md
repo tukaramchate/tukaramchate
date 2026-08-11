@@ -2,39 +2,38 @@
 
 **Full-Stack Developer | Java | Spring Boot | React | PostgreSQL | Azure**
 
-I'm a Computer Engineer from pune. Passionate about scalable backend systems and modern web applications.
+I'm a Computer Engineer from Pune. Passionate about scalable backend systems and modern web applications.
 
-
-### 🚀 What I'm Up To
-* 🔭 **Currently working on:** [CampusConnect](https://github.com/tukaramchate/CampusConnect) — A full-stack university platform.
-* 🌱 **Currently learning:** Azure, React.js, and Spring AI.
-* 👨‍💻 **Portfolio:** Check out my complete projects at [tukaramchate.vercel.app](https://tukaramchate.vercel.app/).
-* 📫 **Reach me at:** [tukaramchate397@gmail.com](mailto:tukaramchate397@gmail.com)
-
----
-
-### 💻 Tech Stack
-
-* **Languages:** Java, Python, SQL
-* **Development:** HTML, CSS, JavaScript, React.js, Spring Boot, Hibernate, Azure
-* **Databases & Tools:** PostgreSQL, MySQL, Git, GitHub, Postman
-* **CS Fundamentals::** OOP, DSA, Computer Networks, SDLC, Software Testing, Cloud Computing
-
-
+## 🚀 What I'm Up To
+- 🔭 **Currently working on:** [CampusConnect](https://github.com/tukaramchate/CampusConnect) — A full-stack university platform.
+- 🌱 **Currently learning:** Azure, React.js, and Spring AI.
+- 👨‍💻 **Portfolio:** Check out my projects at [tukaramchate.vercel.app](https://tukaramchate.vercel.app/).
+- 📫 **Reach me at:** [tukaramchate397@gmail.com](mailto:tukaramchate397@gmail.com)
 
 ---
 
-### 🏆 Featured Projects
+## 💻 Tech Stack
 
-* 🛡️ **[Document-Validator](https://github.com/tukaramchate/Document-Validator):** AI-Powered Document Validator built with React, Flask, FastAPI, and PyTorch. Features multi-stage verification including CNN forgery detection and OCR.
-* 🎓 **[CampusConnect](https://github.com/tukaramchate/CampusConnect):** A comprehensive university platform for students to collaborate, share notes, and trade items. Built with Spring Boot and TypeScript.
-* 📝 **[Kasoti](https://github.com/tukaramchate/kasoti):** A full-stack quiz management platform built with Spring Boot and React featuring leaderboards and score tracking.
-* 🚜 **[SmartFarming](https://github.com/tukaramchate/SmartFarming):** An intelligent agriculture solution leveraging the MERN stack, Flask for AI, and IoT devices like NodeMCU.
+- **Languages:** Java, Python, JavaScript, C++, Bash
+- **Backend:** Spring Boot, Node.js
+- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **Cloud & DevOps:** Azure, Git, Docker, Linux
+- **Tools:** Selenium, Postman
 
 ---
 
-### 🔗 Let's Connect!
+## 🏆 Featured Projects
 
-* **LinkedIn:** [tukaram-chate](https://linkedin.com/in/tukaram-chate)
-* **LeetCode:** [tukaramchate397](https://leetcode.com/u/tukaramchate397)
-* **HackerRank:** [tukaramchate397](https://www.hackerrank.com/profile/tukaramchate397)
+- 🛡️ **[Document-Validator](https://github.com/tukaramchate/Document-Validator):** AI-powered document validation using React, Flask, FastAPI, and PyTorch.
+- 🎓 **[CampusConnect](https://github.com/tukaramchate/CampusConnect):** University platform built with Spring Boot and TypeScript/React.
+- 📝 **[Kasoti](https://github.com/tukaramchate/kasoti):** Quiz management platform with leaderboards and score tracking.
+- 🚜 **[SmartFarming](https://github.com/tukaramchate/SmartFarming):** Intelligent agriculture solution using MERN stack and Flask for AI.
+
+---
+
+## 🔗 Let's Connect!
+
+- **LinkedIn:** [tukaram-chate](https://linkedin.com/in/tukaram-chate)
+- **LeetCode:** [tukaramchate397](https://leetcode.com/u/tukaramchate397)
+- **HackerRank:** [tukaramchate397](https://www.hackerrank.com/profile/tukaramchate397)
