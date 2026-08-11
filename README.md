@@ -21,7 +21,7 @@ I specialize in **Java, Spring Boot**, and backend architecture, with a strong f
 * **Cloud & DevOps:** Azure, Git, Docker, Linux
 * **Tools:** Selenium
 
-*(Note: You can re-add your skill badges here using standard GitHub README badge syntax if you prefer the visual icons!)*
+
 
 ---
 
