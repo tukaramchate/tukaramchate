@@ -2,7 +2,6 @@
 
 **Full-Stack Developer | Java | Spring Boot | React | PostgreSQL | Azure**
 
-I specialize in **Java, Spring Boot**, and backend architecture, with a strong focus on building scalable applications and exploring AI integrations. I am continually expanding my skill set in cloud technologies and modern frontend frameworks.
 
 ### 🚀 What I'm Up To
 * 🔭 **Currently working on:** [CampusConnect](https://github.com/tukaramchate/CampusConnect) — A full-stack university platform.
@@ -14,12 +13,10 @@ I specialize in **Java, Spring Boot**, and backend architecture, with a strong f
 
 ### 💻 Tech Stack
 
-* **Languages:** Java, Python, JavaScript, C++, Bash
-* **Backend:** Spring Boot, Node.js
-* **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
-* **Databases:** MySQL, PostgreSQL, MongoDB, Redis
-* **Cloud & DevOps:** Azure, Git, Docker, Linux
-* **Tools:** Selenium
+* **Languages:** Java, Python, SQL
+* **Development:** HTML, CSS, JavaScript, React.js, Spring Boot, Hibernate, Azure
+* **Databases & Tools:** PostgreSQL, MySQL, Git, GitHub, Postman
+* **CS Fundamentals::** OOP, DSA, Computer Networks, SDLC, Software Testing, Cloud Computing
 
 
 
