@@ -2,6 +2,8 @@
 
 **Full-Stack Developer | Java | Spring Boot | React | PostgreSQL | Azure**
 
+I'm a Computer Engineer from pune. Passionate about scalable backend systems and modern web applications.
+
 
 ### 🚀 What I'm Up To
 * 🔭 **Currently working on:** [CampusConnect](https://github.com/tukaramchate/CampusConnect) — A full-stack university platform.
