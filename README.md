@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tukaram Chate
 
-**A passionate Full Stack & Backend Developer from Pune, India 🇮🇳**
+**Full-Stack Developer | Java | Spring Boot | React | PostgreSQL | Azure**
 
 I specialize in **Java, Spring Boot**, and backend architecture, with a strong focus on building scalable applications and exploring AI integrations. I am continually expanding my skill set in cloud technologies and modern frontend frameworks.
 
